@@ -1,0 +1,17 @@
+insert into vehicle values(1,'Alto', 0);
+insert into vehicle values(2,'Desire', 1);
+insert into vehicle values(3,'TT', 0);
+insert into vehicle values(4,'Volvo A3800', 1);
+insert into vehicle values(5,'Electra', 1);
+insert into drivers values(3,'Barak', 39,10,3000);
+insert into drivers values(4,'Trumph',54,18,3900);
+insert into drivers values(5,'Kim', 43,19,4000);
+insert into drivers values(6,'Rahul', 23,2,1500);
+insert into hotels values(01,577101,'Stay chickmagalur','CHIKMAGALUR','KARNATAKA',1000,577101);
+insert into hotels values(02,577435,'Shiva priya','SHIMOGA','KARNATAKA',1500,577435);
+insert into hotels values(03,583231,'Hampi comforts','HAMPI','KARNATAKA',2000,583231);
+insert into hotels values(04,587201,'Ashoka grand','BADAMI','KARNATAKA',4800,587201);
+insert into guides values(01,'Bill',36,10,750);
+insert into guides values(02,'Elon',46,14,800);
+insert into guides values(03,'Mark',33,19,850);
+insert into guides values(04,'Sathaya',39,20,850);
