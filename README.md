@@ -85,14 +85,12 @@ Example Usage
 5. View Bookings
 6. Cancel Booking
 7. Exit
-
 When creating a trip:
 Enter destination: Goa
 Enter date (YYYY-MM-DD): 2025-02-18
 Enter available seats: 40
 Enter price: 3999
 Trip created successfully!
-
 When booking:
 Enter user ID: 1
 Enter trip ID: 3
