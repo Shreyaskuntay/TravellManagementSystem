@@ -86,15 +86,15 @@ Example Usage
 6. Cancel Booking
 7. Exit
 When creating a trip:
-Enter destination: Goa
-Enter date (YYYY-MM-DD): 2025-02-18
-Enter available seats: 40
-Enter price: 3999
-Trip created successfully!
+1.Enter destination: Goa
+2.Enter date (YYYY-MM-DD): 2025-02-18
+3.Enter available seats: 40
+4.Enter price: 3999
+5.Trip created successfully!
 When booking:
-Enter user ID: 1
-Enter trip ID: 3
-Enter number of seats: 2
-Booking successful!
-Remaining seats: 38
+1.Enter user ID: 1
+2.Enter trip ID: 3
+3.Enter number of seats: 2
+4.Booking successful!
+5.Remaining seats: 38
 ---
